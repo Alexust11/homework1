@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Выполнение Домашнего задания");
+        System.out.println("Выполнение Домашнего задания 1");
     }
 }
